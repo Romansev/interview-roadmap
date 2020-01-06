@@ -9,7 +9,7 @@
 
 [OPCode](https://habr.com/ru/post/233129/)
 
-Garbage Collection:
+### Garbage Collection:
 
 [Ломаем сбор мусора и десериализацию в PHP](https://habr.com/ru/company/mailru/blog/308242/),
 
@@ -29,7 +29,7 @@ Garbage Collection:
 
 [SOLID](https://ota-solid.now.sh/)
 
-CQRS:
+### CQRS:
 
 [Как быстро попробовать CQRS/ES в Laravel или пишем банк на PHP](https://habr.com/ru/post/448000/),
 
@@ -51,7 +51,7 @@ CQRS:
 
 ### Библиотеки
 
-Async:
+#### Async:
 
 [Асинхронный PHP и история одного велосипеда](https://habr.com/ru/post/451916/),
 
@@ -59,18 +59,18 @@ Async:
 
 [Coroutines в PHP и работа с неблокирующими функциями](https://habr.com/ru/post/164173/)
 
-Redis:
+#### Redis:
 
 [Шпаргалка по Redis](https://habr.com/ru/post/204354/),
 
-RabbitMQ:
+#### RabbitMQ:
 [RabbitMQ tutorial 1](https://habr.com/ru/post/149694/),
 [RabbitMQ tutorial 2](https://habr.com/ru/post/150134/)
 [RabbitMQ tutorial 3](https://habr.com/ru/post/200870/)
 [RabbitMQ tutorial 4](https://habr.com/ru/post/201096/)
 [RabbitMQ tutorial 5](https://habr.com/ru/post/201178/)
 
-Kafka:
+#### Kafka:
 
 [Apache Kafka: обзор](https://habr.com/ru/company/piter/blog/352978/),
 
@@ -78,16 +78,17 @@ Kafka:
 
 ## Devops
 
-php-fpm:
-[1](https://orkhanalyshov.com/blog/54),
+### php-fpm:
 
-nginx:
+[PHP-FPM](https://orkhanalyshov.com/blog/54)
+
+### nginx:
 
 [NGINX изнутри](https://habr.com/ru/post/260065/),
 
 [Руководство для начинающих](https://nginx.org/ru/docs/beginners_guide.html)
    
-Deploy (CI\CD):
+### Deploy (CI\CD):
 
 [Какая разница между Continuous Delivery, Continuous Deployment и Continuous Integration](https://qaat.ru/kakaya-raznica-mezhdu-continuous-delivery-continuous-deployment-i-continuous-integration/),
 
