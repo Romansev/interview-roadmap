@@ -9,7 +9,7 @@
 
 [OPCode](https://habr.com/ru/post/233129/)
 
-### Garbage Collection:
+#### Garbage Collection:
 
 [Ломаем сбор мусора и десериализацию в PHP](https://habr.com/ru/company/mailru/blog/308242/),
 
@@ -19,9 +19,13 @@
 
 [3 Вопросы производительности](https://www.php.net/manual/ru/features.gc.performance-considerations.php)
 
+####  Internals
+
 [ZVal](https://habr.com/ru/post/226707/)
 
 [PHP Internals Book](https://romka.gitbooks.io/php-internals-book-ru/)
+
+####  Principles
 
 [DRY, KISS, YAGNI](https://habr.com/ru/post/144611/)
 
@@ -64,10 +68,15 @@
 [Шпаргалка по Redis](https://habr.com/ru/post/204354/),
 
 #### RabbitMQ:
+
 [RabbitMQ tutorial 1](https://habr.com/ru/post/149694/),
+
 [RabbitMQ tutorial 2](https://habr.com/ru/post/150134/)
+
 [RabbitMQ tutorial 3](https://habr.com/ru/post/200870/)
+
 [RabbitMQ tutorial 4](https://habr.com/ru/post/201096/)
+
 [RabbitMQ tutorial 5](https://habr.com/ru/post/201178/)
 
 #### Kafka:
